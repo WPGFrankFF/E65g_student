@@ -286,7 +286,7 @@
 				INFOPLIST_FILE = Assignment4/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edu.harvard.Assignment4;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.harvard.final-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -300,7 +300,7 @@
 				INFOPLIST_FILE = Assignment4/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edu.harvard.Assignment4;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.harvard.final-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
