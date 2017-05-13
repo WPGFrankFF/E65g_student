@@ -56,7 +56,7 @@
                                                 <rect key="frame" x="0.0" y="28" width="320" height="44"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="LSj-dS-d5a" id="Kvu-4g-vGl">
-                                                    <rect key="frame" x="0.0" y="0.0" width="287" height="43.5"/>
+                                                    <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Json Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Tsf-ec-ijm">
@@ -93,7 +93,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="216"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Size:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s3p-pU-lIG">
-                                        <rect key="frame" x="18" y="21" width="37" height="21"/>
+                                        <rect key="frame" x="18" y="21" width="37" height="22"/>
                                         <color key="backgroundColor" red="0.96510567540000003" green="0.73076573919999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -101,7 +101,7 @@
                                         <color key="shadowColor" red="0.96510567540000003" green="0.73076573919999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Refresh rate " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QF8-B3-pAq" userLabel="Refresh Rate">
-                                        <rect key="frame" x="6" y="95" width="72" height="21"/>
+                                        <rect key="frame" x="6" y="96" width="72" height="21"/>
                                         <color key="backgroundColor" red="0.96510567540000003" green="0.73076573919999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="72" id="5tf-xY-Bfi"/>
@@ -137,7 +137,7 @@
                                         </connections>
                                     </switch>
                                     <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" minValue="0.0" maxValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="i1F-5C-ugN">
-                                        <rect key="frame" x="18" y="52.5" width="279" height="31"/>
+                                        <rect key="frame" x="18" y="54" width="279" height="31"/>
                                         <connections>
                                             <action selector="sizeSliderDidChange:" destination="zf1-kJ-0Pm" eventType="valueChanged" id="bhY-hG-3Ib"/>
                                         </connections>
