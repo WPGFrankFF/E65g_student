@@ -1,6 +1,7 @@
 //
 //  Grid.swift
 //
+//
 import Foundation
 public typealias GridPosition = (row: Int, col: Int)
 public typealias GridSize = (rows: Int, cols: Int)

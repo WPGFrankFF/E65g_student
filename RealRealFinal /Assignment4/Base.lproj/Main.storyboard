@@ -288,7 +288,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WYx-oQ-cZN" customClass="GridView" customModule="Frank_Final_" customModuleProvider="target">
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WYx-oQ-cZN" userLabel="Editor View" customClass="GridView" customModule="Frank_Final_" customModuleProvider="target">
                                 <rect key="frame" x="40" y="156" width="240" height="240"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>

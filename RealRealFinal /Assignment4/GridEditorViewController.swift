@@ -1,8 +1,8 @@
 //
 //  GridEditor.swift
-//  Assignment4
 //
-//  Created by Wyss User on 4/30/17.
+//
+//  Created by Frank Urena on 5/05/17.
 //  Copyright © 2017 Harvard Division of Continuing Education. All rights reserved.
 //
 
